@@ -21,8 +21,8 @@ An automated Node.js application that fetches quotes, generates images with the 
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd sad-quote-app
+git clone https://github.com/iluser/quote-to-facebook
+cd quote-to-facebook
 ```
 
 2. Install dependencies:

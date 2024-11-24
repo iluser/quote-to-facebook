@@ -1,0 +1,20 @@
+{
+  "name": "sad-quote-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "canvas": "^2.11.2",
+    "cheerio": "^1.0.0",
+    "form-data": "^4.0.1",
+    "instagram-private-api": "^1.46.1",
+    "node-cron": "^3.0.3"
+  }
+}
